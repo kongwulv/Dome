@@ -1,4 +1,4 @@
-package Dome;
+package dome;
 
 import static org.junit.Assert.assertTrue;
 

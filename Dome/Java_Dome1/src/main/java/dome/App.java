@@ -1,4 +1,4 @@
-package Dome;
+package dome;
 
 /**
  * Hello world!
