@@ -6,9 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Java_Dome1" />
-        <module name="Web_Dome1" />
+        <module name="SpringMvcTest" />
+        <module name="MyBatisTest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dome" target="1.7" />
+      <module name="Java_Dome1" target="1.7" />
+      <module name="MyBatisTest" target="11" />
+      <module name="SpringMvcTest" target="8" />
+      <module name="Web_Dome1" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

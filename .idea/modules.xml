@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dome/Dome.iml" filepath="$PROJECT_DIR$/Dome/Dome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dome/MyBatisTest/MyBatisTest.iml" filepath="$PROJECT_DIR$/Dome/MyBatisTest/MyBatisTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dome/SpringMvcTest/SpringMvcTest.iml" filepath="$PROJECT_DIR$/Dome/SpringMvcTest/SpringMvcTest.iml" />
+    </modules>
+  </component>
+</project>
